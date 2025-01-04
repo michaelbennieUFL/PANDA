@@ -36,7 +36,7 @@ While Chinese is one of the most widely spoken languages globally, **publicly av
 ---
 
 ## 📜 Dataset Overview
-- **Total HS–CS Rows**: 784  
+- **Total HS–CS Rows**: 785  
 - **Language**: Simplified Chinese (with some code-switched English in certain cases)  
 - **Sources of Hate Speech**:  
   - **COLD** [(Zhang et al., 2020)](https://github.com/link/to/cold)  
