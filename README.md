@@ -4,7 +4,7 @@ Using an LLM-as-a-Judge to Create the First Chinese Counterspeech Dataset
 ---
 ## 📜 Paper
 
-The pre-print discussing the methodology of this project and data analysis can be found here: https://arxiv.org/abs/2501.00697.
+The 2025 COLING workshop paper discussing the methodology of this project and data analysis can be found here: [paper](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/MCG/pdf/2025.mcg-1.1.pdf).
 
 ### 📜 Contact and Feedback
 
