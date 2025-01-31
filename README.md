@@ -4,7 +4,7 @@ Using an LLM-as-a-Judge to Create the First Chinese Counterspeech Dataset
 ---
 ## 📜 Paper
 
-The 2025 COLING workshop paper discussing the methodology of this project and data analysis can be found here: [paper](https://coling-2025-proceedings.s3.us-east-1.amazonaws.com/workshops/MCG/pdf/2025.mcg-1.1.pdf).
+The 2025 COLING workshop paper discussing the methodology of this project and data analysis can be found here: [https://aclanthology.org/2025.mcg-1.1/](https://aclanthology.org/2025.mcg-1.1/).
 
 ### 📜 Contact and Feedback
 
@@ -94,13 +94,13 @@ The `userEnteredResponse` was either written from scractch by a human, edited fr
 ## 📜 Citations
 If you use or reference **PANDA** in your research, kindly cite our pre-print:
 ```bibtex
-@misc{bennie2025pandapairedantihate,
-      title={PANDA -- Paired Anti-hate Narratives Dataset from Asia: Using an LLM-as-a-Judge to Create the First Chinese Counterspeech Dataset}, 
-      author={Michael Bennie and Demi Zhang and Bushi Xiao and Jing Cao and Chryseis Xinyi Liu and Jian Meng and Alayo Tripp},
-      year={2025},
-      eprint={2501.00697},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2501.00697}, 
+@inproceedings{bennie-etal-2025-panda,title = "{PANDA} - Paired Anti-hate Narratives Dataset from {A}sia: Using an {LLM}-as-a-Judge to Create the First {C}hinese Counterspeech Dataset",
+author = "Bennie, Michael and Zhang, Demi and Xiao, Bushi and Cao, Jing and Liu, Chryseis Xinyi and Meng, Jian and Tripp, Alayo",
+editor = "Bonaldi, Helena and Vallecillo-Rodr{\'i}guez, Mar{\'i}a Estrella and Zubiaga, Irune and Montejo-R{\'a}ez, Arturo and Soroa, Aitor and Mart{\'i}n-Valdivia, Mar{\'i}a Teresa and Guerini, Marco and Agerri, Rodrigo",booktitle = MCG:2025:1,
+month = jan,
+year = "2025",
+address = "Abu Dhabi, UAE",
+publisher = acl,url = anth # {2025.mcg-1.1/},
+pages = "1--12"
 }
 ```
