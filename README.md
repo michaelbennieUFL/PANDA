@@ -46,7 +46,7 @@ While Chinese is one of the most widely spoken languages globally, **publicly av
 These sources were chosen for their open-source availability and coverage of various hate/offensive scenarios, such as **sexism**, **racism**, **regional bias**, **anti-LGBTQ**, and **general offensive content**.
 
 ### Dataset Structure
-The dataset is provided as a single CSV file named `panda_dataset.csv`, consisting of the following columns:
+The dataset is provided as a TSV file named `panda_dataset.tsv` or a CSV file named `panda_dataset.csv`, consisting of the following columns:
 
 | **Column Name**          | **Description**                                                                |
 |--------------------------|--------------------------------------------------------------------------------|
